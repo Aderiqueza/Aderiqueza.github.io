@@ -3,11 +3,13 @@ body{
     background-color: #fcefe7;
     text-align: center;
     line-height: 1.5rem;
+    color: #111118;
 }
 .error{
     font-weight: 800;
-    font-size: 14.8vw;
+    font-size: 13.8vw;
     letter-spacing: -.65vw;
+    margin-top: 15%;
     
 }
 p{
