@@ -2,12 +2,13 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #fcefe7;
     text-align: center;
-    line-height: 2.5rem;
+    line-height: 1.5rem;
 }
 .error{
-    font-weight: bolder;
-    font-size: xx-large;
-    margin-top: 10%;
+    font-weight: 800;
+    font-size: 14.8vw;
+    letter-spacing: -.65vw;
+    
 }
 p{
     margin-bottom: 5%;
